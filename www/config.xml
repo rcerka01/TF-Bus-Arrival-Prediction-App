@@ -10,6 +10,12 @@
     <access origin="*" subdomains="true" />
     <content src="index.html" />
     <icon src="icon.png" />
+    <gap:platform name="ios" />
+    <gap:platform name="android" />
+    <gap:platform name="webos" />
+    <gap:platform name="symbian" />
+    <gap:platform name="blackberry" />
+    <gap:platform name="winphone" />
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
