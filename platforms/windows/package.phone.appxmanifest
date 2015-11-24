@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
     <Identity Name="com.phonegap.tfl" Publisher="CN=$username$" Version="1.0.0.0" />
-    <mp:PhoneIdentity PhoneProductId="b77d6b80-92c9-11e5-a162-e19d929e3828" PhonePublisherId="db093ed5-53b1-45f7-af72-751e8f36ab80" />
+    <mp:PhoneIdentity PhoneProductId="cd394500-92d5-11e5-943a-ad1d81aa22a0" PhonePublisherId="db093ed5-53b1-45f7-af72-751e8f36ab80" />
     <Properties>
         <DisplayName>TFL Bus Arrival Prediction App</DisplayName>
         <PublisherDisplayName>Raitis Cerkasovs</PublisherDisplayName>
